@@ -1,16 +1,16 @@
-## Hi there 👋
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iTizz&show_icons=true&theme=tokyonight&locale=pt-br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<!--
+- 🔭 ola eu sou gustavo sabino
+- 🌱 eu aprendo
+- 👯 eu estudo
+- 🤔 eu falo inglês profissionalmente
+- 💬 eu gosto de desenhar
+- 📫 eu como pão
+- 😄 Pronomes - BLue/bluezão
+- ⚡ fato interessante - pleno em javascript
+-->
